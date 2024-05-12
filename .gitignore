@@ -1,0 +1,12 @@
+*.pyc
+*.pyo
+*.swp
+*.swo
+*.swn
+*.swh
+*.swm
+*.swl
+*.swk
+*.swc
+myenv/
+*/__pycache__/
